@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+.user-detail
+{
+    display: flex;
+    flex-direction: row;
+    margin: 3% 0;
+    background-color: #F9F9F9;
+    border: 3px solid rgb(114, 16, 114);
+    font-family: 'Roboto', sans-serif;
+    padding:1%;
+   
+    
+}
